@@ -59,6 +59,3 @@ buck-out/
 /ios/Pods/
 
 
-android/
-
-*.hprof
